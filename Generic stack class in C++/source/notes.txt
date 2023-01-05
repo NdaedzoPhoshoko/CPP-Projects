@@ -1,0 +1,33 @@
+Watch out 
+
+there is also a default type for template classes
+example
+        template<newtype T = int >             //template class of type int by default
+         class Stack
+        {
+            ...
+        };
+
+When wrapping the data structure with a default type
+use :
+example 
+         LinkedList<> myLinkedList; //it does not specifies the type but considers default type 
+
+Mind that default types are not for funtions as function structures specifies the types on fucntion declaration
+...............................................................................................................
+
+Note
+You also can use nontype parameters along with type parameters in a template prefix. 
+For example, you may declare the array capacity as a parameter for the Stack class as 
+follows:
+template<typename T, int capacity>
+class Stack
+{
+ ...
+private:
+ T elements[capacity];
+ int size;
+};
+So, when you create a stack, you can specify the capacity for the array. For example,
+Stack<string, 500> stack;
+declares a stack that can hold up to 500 strings

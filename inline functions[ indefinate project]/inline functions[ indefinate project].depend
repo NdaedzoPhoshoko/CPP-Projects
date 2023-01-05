@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614595704 source:c:\users\user\desktop\programming\inline functions[ indefinate project]\main.cpp
+	<iostream>
+	<sstream>
+	<cstring>
+

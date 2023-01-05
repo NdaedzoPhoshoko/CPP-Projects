@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599419146 source:c:\users\user\desktop\programming\1st questions\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604105222 source:c:\users\user\desktop\programming\finance( compound and simple)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+

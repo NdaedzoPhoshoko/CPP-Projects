@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625390925 source:c:\users\user\desktop\programming c++\magnettech\main.cpp
+	<iostream>
+	<sstream>
+	<windows.h>
+

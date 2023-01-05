@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604097970 source:c:\users\user\desktop\programming\strings(counting the length of string)\main.cpp
+	<iostream>
+	<string>
+

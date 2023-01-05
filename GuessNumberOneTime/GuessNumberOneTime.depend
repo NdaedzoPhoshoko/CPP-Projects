@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613683312 source:c:\users\user\desktop\programming\guessnumberonetime\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

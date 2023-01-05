@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614949261 source:c:\users\user\desktop\programming\dynamic memory allocation using nothrow\main.cpp
+	<iostream>
+	<new>
+
