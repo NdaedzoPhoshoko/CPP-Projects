@@ -2,6 +2,17 @@
 #include <cmath>
 using namespace std;
 
+int main()
+{
+    cout << "Hello Wold"<<endl;
+  return 0;
+};
+
+/*Commented out testing source code
+#include <iostream>
+#include <cmath>
+using namespace std;
+
 void MyFunc(int P, int m, float i )
 {
     int A = pow( (1 + (i / m)) , t * m);
@@ -24,3 +35,4 @@ float i;
 
  return 0;
 }
+*/
