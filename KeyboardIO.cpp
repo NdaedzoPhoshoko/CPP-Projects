@@ -7,7 +7,7 @@ void MyFunc(int P, int m, float i )
 {
     int A = pow( (1 + (i / m)) , t * m);
     int c = P * A;
-cout<<" ANSWER: "<< c <<endl; //text output
+    cout<<" ANSWER: "<< c <<endl; //text output
 }
 
 int main() //ENGINE
