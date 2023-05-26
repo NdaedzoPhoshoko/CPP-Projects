@@ -5,7 +5,7 @@ using namespace std;
 //function to computer Accumulated finance ammount 
 void MyFunc(int P, int m, float i )
 {
-    int A = pow( (1 + (i / m)) , t * m);
+    int A = pow( (1 + (i / m)) , m);
     int c = P * A;
     cout<<" ANSWER: "<< c <<endl; //text output
 }
@@ -23,7 +23,7 @@ int main() //ENGINE
    cout << "\n Enter interest in decimal form : ";
    cin>> i;
 
-   MyFunc(P,t,m,i); //calling user-defined functions
+   MyFunc(P,m,i); //calling user-defined functions
 
  return 0;
 }
