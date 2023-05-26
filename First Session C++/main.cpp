@@ -1,4 +1,4 @@
-/*#include <iostream> //file header for input stream and output stream
+#include <iostream> //file header for input stream and output stream
 #include <cstring> // for sentences
 #include <sstream> // for stringstream
 
@@ -39,7 +39,7 @@ int main() //main function
     stringstream ( myAnswer2) >> number3;  //converting a string into an integer
 
 return 0;
-}*/
+}
 
 /*#include <iostream>
 
@@ -61,7 +61,7 @@ return 0;
 }*/
 
 // functions
-
+/*
 #include <iostream>
 using namespace std; // cout and cin
 
@@ -90,4 +90,4 @@ double myFunc ( double a,double b)
 {
 
 return ( a/b);
-}
+}*/
